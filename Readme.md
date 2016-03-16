@@ -1,7 +1,7 @@
-this is a test
+this is a{edited} test
 
 for check if 
 
-there will be
+there will{edited} be
 
 merge conflicts
